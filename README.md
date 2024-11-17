@@ -21,7 +21,7 @@ Swap Store is a web-based platform designed to make renting items easier than ev
 
 ## 💻 Tech Stack  
 - **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: PHP (or any other framework you plan to use)  
+- **Backend**: PHP
 - **Database**: MySQL  
 - **Hosting**: (e.g., AWS, Heroku, etc.)  
 
