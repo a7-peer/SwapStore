@@ -1,3 +1,15 @@
+--creating table user
+CREATE TABLE `users` (
+  `user_id` int(11) NOT NULL,
+  `first_name` varchar(50) DEFAULT NULL,
+  `last_name` varchar(50) DEFAULT NULL,
+  `birth_month` int(11) DEFAULT NULL,
+  `birth_date` int(11) DEFAULT NULL,
+  `birth_year` int(11) DEFAULT NULL,
+  `mobile_number` varchar(20) DEFAULT NULL,
+  `password` varchar(255) DEFAULT NULL,
+  `email` varchar(255) DEFAULT NULL
+)
 --creating posts table
 CREATE TABLE posts (
     post_id INT AUTO_INCREMENT PRIMARY KEY, 
